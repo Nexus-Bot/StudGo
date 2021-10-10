@@ -104,6 +104,17 @@ You need to have latest version of Flutter and Android Studio installed in your 
     ```sh
     flutter run
     ```
+    
+## API USAGE
+
+(i)	Hacker News API-
+Hacker News API was used to render the NewsWall section of the project both in the Web and mobile implementations, Hacker News provides regularly updated news around the globe 24 X 7.
+
+API docs-https://hackernews.api-docs.io/v0/overview/introduction
+Github Repo: https://github.com/HackerNews/API
+
+all the information has been taken from opensource sources.
+We hold no rights over them and ensure to provide proper credit to the sources.
 
 ## Getting Started
 
