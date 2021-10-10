@@ -25,7 +25,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#what's-included">What's Included</a></li>
+    <li><a href="#whats-included">What's Included</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#api-and-information-uses">API and Information Uses</a></li>
   </ol>
@@ -54,12 +54,8 @@ Competitive programming and coding is the best way to practice and expand your c
 ##### OpenSource Development
 The best way to contribute towards the community is to contribute through opensource projects, contributions in opensource are acceptable almost all around the globe and is a better way to show your grip on the topic, StudGO offers you all the possible opensource projects that you may find worth contributing to. 
 
-
- 
-
 ##### Communities and Forums
 Getting stuck when learning something new or not sure how to overcome an error, It’s always good to resolve your doubts, and the best way is to seek help from the creators/developers itself, StudGO provides users with all the major official technical communities and forums to make your technical journey doubt free.
-
 
 ##### Latest Tech News
 Keeping your life updated helps you to know the current trend and holds a huge share in building and shaping your future, StudGO enables it users to deep dive into its NewsWall to let them know every happening related to technology at the ease of a single click.
